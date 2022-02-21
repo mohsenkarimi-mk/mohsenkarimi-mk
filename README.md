@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 ### I'm Mohsen Karimi
-I'm a software developer, and I really enjoy learning languages and frameworks like javascript, vue, php and laravel. I also design in general.
+I'm a software developer, and I really enjoy learning languages and frameworks like javascript, vue, php and laravel. // I also design in general.
 
 
 - 🔭 I’m currently working as a software developer 
