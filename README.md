@@ -22,7 +22,7 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 
 
 
-<a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
