@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Mohsen Karimi
-#### I'm a software developer.
 <hr>
 I'm a software developer, and I really enjoy learning languages and frameworks like javascript, vue, php and laravel. I also design in general.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on as a software developer 
+- 🔭 I’m currently working as a software developer 
 - 📫 Subscribe to my youtube channel:: https://www.youtube.com/c/BluebirdTech 
 - ⚡ Fun fact: The first computer virus was a Creeper 
 
