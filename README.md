@@ -6,7 +6,7 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 
 
 - 🔭 I’m currently working as a software developer 
-- 📫 Subscribe to my youtube channel:: https://www.youtube.com/c/BluebirdTech 
+- 📫 Subscribe to my youtube channel::<a href=" https://www.youtube.com/c/BluebirdTech ">Bluebird</a>
 - ⚡ Fun fact: The first computer virus was a Creeper 
 
 
