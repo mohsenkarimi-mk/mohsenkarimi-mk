@@ -1,5 +1,4 @@
 ### Hi there 👋, 
-<hr>
 ### I'm Mohsen Karimi
 I'm a software developer, and I really enjoy learning languages and frameworks like javascript, vue, php and laravel. I also design in general.
 
