@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohsen Karimi
 #### I'm a software developer.
-![I'm a software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a software developer.]
 
 I'm a software developer, and I really enjoy learning languages and frameworks like javascript, vue, php and laravel. I also design in general.
 
