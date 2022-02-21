@@ -21,80 +21,28 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 
 
 
-<label>Laravel-CRUD-With-Multiple-Image-Upload</label>
+
+
+
+
+
+
+<ins><a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" rel="nofollow" class="rich-diff-level-zero"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" alt="IMAGE ALT TEXT HERE" border="80" style="max-width: 100%;" class="rich-diff-level-one"></a></ins>
+
+
+
+ 
+ 
+
+
+<!-- 
+<div widthd="200" height="180">
+ <label>Laravel-CRUD-With-Multiple-Image-Upload</label>
 <a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-
-<label>Laravel-CRUD-With-Multiple-Image-Upload</label>
-<a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-
-
-<label>Laravel-CRUD-With-Multiple-Image-Upload</label>
-<a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-
-<label>Laravel-CRUD-With-Multiple-Image-Upload</label>
-<a href="https://www.youtube.com/watch?v=Qq-7DstQq5k" target="_blank"><img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+ </div>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+-->
 
 
-
-
-
-
-<div class="cards">
-    <article class="card">
-        <header>
-            <h2>A short heading</h2>
-        </header>    
-        <img src="balloons.jpg" alt="Hot air balloons">
-        <div class="content">
-            <p> The idea of reaching the North Pole by means of balloons appears to have been entertained many years ago. </p>
-        </div>
-            
-    </article>
-            
-     <article class="card">
-        <header>
-            <h2>A short heading</h2>
-        </header>    
-        <img src="balloons2.jpg" alt="Hot air balloons">
-        <div class="content">
-            <p>Short content.</p>
-        </div>
-        <footer>I have a footer!</footer>
-    </article>
-            
-    <article class="card">
-        <header>
-            <h2>A longer heading in this card</h2>
-        </header>
-        <img src="balloons.jpg" alt="Hot air balloons">
-        <div class="content">
-            <p>In a curious work, published in Paris in 1863 by Delaville Dedreux, there is a
-                suggestion for reaching the North Pole by an aerostat.</p>
-        </div>
-        <footer>I have a footer!</footer>
-    </article>
-    <article class="card">
-        <header>
-            <h2>A short heading</h2>
-        </header>
-        <img src="balloons2.jpg" alt="Hot air balloons">
-        <div class="content">
-            <p> The idea of reaching the North Pole by means of balloons appears to have been entertained many
-                years ago. </p>
-        </div>
-
-    </article>
-</div>
