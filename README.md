@@ -75,7 +75,7 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 - [Compress image in laravel](https://www.youtube.com/watch?v=OG9vVDJRjYU&t=22s)
 - [Laravel REST API with Sanctum Authentication and CRUD operation](https://www.youtube.com/watch?v=BnRChZONu8E)
 - [Operating system browser and device detection in laravel](https://www.youtube.com/watch?v=BnRChZONu8E)
-- [See More...](https://www.youtube.com/c/BluebirdTech)
+- [more videos...](https://www.youtube.com/c/BluebirdTech)
 
 
 
