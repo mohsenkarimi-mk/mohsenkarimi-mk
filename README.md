@@ -41,7 +41,6 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 
 
 <br />
-<br />
 
 ### Number of Visits
  ![Profile views](https://gpvc.arturio.dev/mohsenkarimi-mk)  
