@@ -10,7 +10,7 @@ I'm a software developer, and I really enjoy learning languages and frameworks l
 - 🔭 I’m currently working as a software developer 
 - 📫 How to reach me: themohsenkarimi@gmail.com 
 - 💻 Subscribe to my youtube channel:: [Bluebird](https://www.youtube.com/c/BluebirdTech)
-- ⚡ Fun fact: The first computer virus was a Creeper 
+- ⚡ Fun fact: The first computer virus was a Creeper😀
 
 
 
